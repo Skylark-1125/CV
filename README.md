@@ -2,4 +2,4 @@
 
 This repository contains my professional resume.
 
-- [View my resume in HTML format](https://Skylark-1125.github.io/CV/CV.html)
+- [View my resume in HTML format](https://skylark-1125.github.io/CV/CV.html)
